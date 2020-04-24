@@ -1,2 +1,0 @@
-def sendBulkMail(listOfMailAddress):
-    pass
