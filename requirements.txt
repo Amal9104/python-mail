@@ -1,4 +1,0 @@
-email
-smtplib 
-ssl
-getpass
