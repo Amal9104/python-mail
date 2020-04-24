@@ -1,4 +1,5 @@
-# python-mail :star2:
+![Python application](https://github.com/Amal9104/python-mail/workflows/Python%20application/badge.svg)
+# python-mail :star:
  Simple python script to send email
 
 ## :question: How to Use ? 
